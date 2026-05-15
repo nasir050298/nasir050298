@@ -39,17 +39,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nasir050298&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasir050298&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 
@@ -59,7 +48,6 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasiruddin.yzu2018@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-Disabled-808080?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 </div>
 
