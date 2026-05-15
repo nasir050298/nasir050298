@@ -49,7 +49,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,githubactions,tailwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<br>
+<img src="https://skillicons.dev/icons?i=matlab,tensorflow,pytorch,opencv" />
 
 </div>
 
