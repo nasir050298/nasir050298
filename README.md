@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=2DBBFF&center=true&vCenter=true&width=700&lines=Hi+%2C+I'm+Nasir+Uddin;Full-Stack+Developer;AI+Enthusiast;DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=2DBBFF&center=true&vCenter=true&width=700&lines=Hi+%2C+I'm+Nasir+Uddin" alt="Typing SVG" />
 
 <br>
 
