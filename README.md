@@ -8,7 +8,7 @@
 
 <br>
 
-### Full-Stack Developer | AI Enthusiast | DevOps Engineer
+### Full-Stack Developer | AI/ML Enthusiast | Image, Signal & Audio Processing | DevOps Engineer
 
 </div>
 
@@ -16,10 +16,22 @@
 
 ## 🔍 About Me
 
-- Full-stack developer with competitive programming background
-- Passionate about AI/ML and embedded systems
-- Electronics enthusiast
-- Currently exploring mechanical design principles
+- Full-stack developer with a strong interest in modern web technologies
+- Passionate about Artificial Intelligence, Machine Learning, and Deep Learning
+- Interested in image processing, signal processing, and audio processing applications
+- Exploring computer vision, data-driven systems, and intelligent software solutions
+- Enthusiastic about DevOps, cloud deployment, and automation
+
+---
+
+## 🎯 Technical Interests
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Computer Vision
+- Image Processing and Pattern Recognition
+- Signal Processing and Audio Processing
+- Full-Stack Web Development
+- DevOps, Cloud Deployment, and Automation
 
 ---
 
@@ -37,7 +49,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,githubactions,tailwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,tensorflow,pytorch,opencv" />
 
 </div>
 
