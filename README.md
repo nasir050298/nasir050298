@@ -69,11 +69,11 @@ I enjoy designing systems that are not only functional and scalable, but also cl
 | **EditorialX** | Modern editorial CMS and publishing dashboard built with React, TypeScript, Zustand, Tailwind CSS, and advanced content management workflows |
 | **AI Audio Deepfake Detection** | Voice deepfake detection service with waveform analysis, confidence scoring, HuggingFace audio models, and forensic reporting |
 | **AI Video Deepfake Detection** | Video deepfake detection system using frame extraction, temporal aggregation, OpenCV processing, and AI-based forensic analysis |
-| **MedScan AI** | Medical AI | Medical image diagnosis dashboard with scan upload, demo diagnosis engine, doctor review, risk analytics, and model integration template |
-| **ResumeRank AI** | NLP / HR AI | AI resume screening and job matching platform with resume upload, skill matching, candidate ranking, and NLP template |
-| **CyberSentinel AI** | Cybersecurity AI | AI threat detection and security monitoring dashboard with anomaly scoring, incident reports, realtime alerts, and security analytics |
-| **FinGuard AI** | Finance AI | AI fraud detection and financial risk dashboard with transaction monitoring, fraud scoring, AML watch, and ML template |
-| **LawLens AI** | LegalTech AI | Legal document analysis and contract review system with clause detection, risk scoring, compliance review, and NLP template |
+| **MedScan AI** | Medical image diagnosis dashboard with scan upload, demo diagnosis engine, doctor review, risk analytics, and model integration template |
+| **ResumeRank AI** | AI resume screening and job matching platform with resume upload, skill matching, candidate ranking, and NLP template |
+| **CyberSentinel AI** | AI threat detection and security monitoring dashboard with anomaly scoring, incident reports, realtime alerts, and security analytics |
+| **FinGuard AI** | AI fraud detection and financial risk dashboard with transaction monitoring, fraud scoring, AML watch, and ML template |
+| **LawLens AI** | Legal document analysis and contract review system with clause detection, risk scoring, compliance review, and NLP template |
 ---
 
 ## 💼 Full-Stack Dashboard Projects
