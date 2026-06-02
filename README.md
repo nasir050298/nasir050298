@@ -4,78 +4,76 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=2DBBFF&center=true&vCenter=true&width=850&lines=Hi+%2C+I'm+Nasir+Uddin+Khan;Full-Stack+Developer;AI%2FML+Enthusiast;Computer+Vision+%7C+Audio+%7C+Video+AI;Building+Modern+AI+Dashboards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=2DBBFF&center=true&vCenter=true&width=850&lines=Hi+%2C+I'm+Nasir+Uddin+Khan;Full-Stack+Developer;AI%2FML+Enthusiast;Computer+Vision+%7C+Multimodal+AI;Building+Modern+AI+Platforms" alt="Typing SVG" />
 
 <br>
 
-### Full-Stack Developer | AI/ML Enthusiast | Computer Vision | Audio & Video AI | DevOps Learner
+### Full-Stack Developer | AI/ML Enthusiast | Computer Vision | Multimodal AI
 
 </div>
 
 ---
 
-## 🔍 About Me
+# 🔍 About Me
 
-I am a full-stack developer and AI/ML enthusiast with a strong interest in building intelligent software systems, modern dashboards, and AI-powered web applications.
+I am a full-stack developer and AI/ML enthusiast passionate about building intelligent software systems, modern dashboards, and AI-powered web applications.
 
-My work focuses on combining **frontend design**, **backend APIs**, **real-time systems**, and **AI/ML workflows** into practical full-stack projects. I am especially interested in computer vision, image processing, signal processing, audio processing, video forensics, smart agriculture, medical AI, cybersecurity AI, and business intelligence systems.
+My work focuses on combining modern frontend experiences, scalable backend APIs, and AI inference pipelines into practical real-world applications. I am especially interested in computer vision, audio AI, video forensics, smart agriculture, cybersecurity AI, and multimodal AI systems.
 
-I enjoy building projects that are not only functional but also clean, professional, and visually meaningful.
+I enjoy designing systems that are not only functional and scalable, but also clean, professional, and visually meaningful.
 
 ---
 
-## 🎯 Technical Interests
+# 🎯 Technical Interests
 
 - Artificial Intelligence and Machine Learning
 - Deep Learning and Computer Vision
+- Multimodal AI Systems
 - Image Processing and Pattern Recognition
-- Audio Processing and Fake Audio Detection
+- Audio Processing and Voice AI
 - Video Forensics and Deepfake Detection
 - Smart Agriculture and UAV Image Analysis
-- Medical Image Analysis
-- Cybersecurity AI and Fraud Detection
+- Medical AI and Segmentation
+- Cybersecurity AI and Threat Analysis
 - Full-Stack Web Development
-- Dashboard Design and Data Visualization
-- DevOps, Cloud Deployment, and Automation
+- Dashboard Systems and Data Visualization
+- Cloud Deployment and DevOps
 
 ---
 
 <div align="center">
 
-## 🛠️ Technologies I Use
+# 🛠️ Technologies I Use
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,go" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,azure" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 <br>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,githubactions,tailwind" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions" />
 <br>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-<br>
-<img src="https://skillicons.dev/icons?i=matlab,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 </div>
 
 ---
 
-## 🚀 Featured AI Projects
+# 🚀 Featured Projects
 
-| Project | Field | Description |
-|---|---|---|
-| **DeepFakeShield** | AI Image Forensics | Full-stack fake image detection dashboard with image upload, demo prediction workflow, analytics, and PyTorch integration template |
-| **VoiceGuard AI** | Audio AI | Fake audio and deepfake voice detection dashboard with waveform-style UI, audio upload, threat reports, and audio ML template |
-| **VideoTruth AI** | Video AI | Deepfake video detection and forensics dashboard with video upload, frame-forensics interface, risk scoring, and video ML template |
-| **CropLodgeNet** | Smart Agriculture AI | UAV wheat lodging segmentation platform with PA/AP dataset console, mask visualization workflow, and PyTorch integration template |
+| Project | Description |
+|---|---|
+| **TruthGuard AI** | Full-stack multimodal AI forensics platform with real image, audio, and video deepfake detection using React, Express, FastAPI, PyTorch, HuggingFace, and OpenCV |
+| **EditorialX** | Modern editorial CMS and publishing dashboard built with React, TypeScript, Zustand, Tailwind CSS, and advanced content management workflows |
+| **AI Audio Deepfake Detection** | Voice deepfake detection service with waveform analysis, confidence scoring, HuggingFace audio models, and forensic reporting |
+| **AI Video Deepfake Detection** | Video deepfake detection system using frame extraction, temporal aggregation, OpenCV processing, and AI-based forensic analysis |
 | **MedScan AI** | Medical AI | Medical image diagnosis dashboard with scan upload, demo diagnosis engine, doctor review, risk analytics, and model integration template |
 | **ResumeRank AI** | NLP / HR AI | AI resume screening and job matching platform with resume upload, skill matching, candidate ranking, and NLP template |
 | **CyberSentinel AI** | Cybersecurity AI | AI threat detection and security monitoring dashboard with anomaly scoring, incident reports, realtime alerts, and security analytics |
 | **FinGuard AI** | Finance AI | AI fraud detection and financial risk dashboard with transaction monitoring, fraud scoring, AML watch, and ML template |
 | **LawLens AI** | LegalTech AI | Legal document analysis and contract review system with clause detection, risk scoring, compliance review, and NLP template |
-
 ---
 
 ## 💼 Full-Stack Dashboard Projects
@@ -91,7 +89,45 @@ I enjoy building projects that are not only functional but also clean, professio
 
 ---
 
-## 📊 GitHub Stats
+
+
+# 🧩 Core Skills
+
+### Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+- Responsive Dashboard UI
+- State Management
+- Data Visualization
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication Systems
+- File Upload Pipelines
+- API Integration
+
+### AI / Machine Learning
+- PyTorch
+- TensorFlow
+- OpenCV
+- HuggingFace Transformers
+- Semantic Segmentation
+- Deepfake Detection
+- Computer Vision
+
+### DevOps & Tools
+- Git & GitHub
+- Linux
+- Docker
+- GitHub Actions
+- Environment Management
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -107,22 +143,24 @@ I enjoy building projects that are not only functional but also clean, professio
 
 ---
 
-## 🧠 Current Focus
+# 🧠 Current Focus
 
-- Building full-stack AI dashboard systems
-- Improving AI/ML model integration with real backend inference
-- Working with PyTorch, computer vision, segmentation, audio AI, and video AI
-- Creating professional GitHub-ready projects
-- Learning better deployment, Docker, and cloud workflows
+- Building full-stack AI platforms
+- Improving real-time AI inference pipelines
+- Working with multimodal AI systems
+- Deepfake detection and AI forensics
+- Computer vision and segmentation research
+- Learning Docker, deployment, and cloud workflows
+- Creating production-style AI dashboard systems
 
 ---
 
-## 📬 Contact Me
+# 📬 Contact Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasiruddin.yzu2018@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasir050298)
 
 </div>
